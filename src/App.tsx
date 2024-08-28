@@ -1,6 +1,7 @@
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Repair from "./components/Repair";
+import Services from "./components/Services";
 import Stats from "./components/Stats";
 
 const App = () => {
@@ -10,6 +11,7 @@ const App = () => {
       <Hero />
       <Stats />
       <Repair />
+      <Services />
     </main>
   );
 };

@@ -27,8 +27,8 @@ const Repair = () => {
             Zeekr 009
           </TabsTrigger>
         </TabsList>
-        <TabsContent value="zeekr1">
-          <img src={zeekr1} alt="" className="w-[22rem]" />
+        <TabsContent value="zeekr1" className="pt-10 md:pt-0">
+          <img src={zeekr1} alt="" className="w-full sm:w-[30rem]" />
           <div className="flex flex-col gap-5 mt-8">
             <RepairInfo text="Горит ошибка по пневмоподвеске" price={100} />
             <RepairInfo text="Проблема с мультимедиа" price={100} />
@@ -46,8 +46,8 @@ const Repair = () => {
             <RepairInfo text="Ошибки на приборной панели" price={100} />
           </div>
         </TabsContent>
-        <TabsContent value="zeekr2">
-          <img src={zeekr2} alt="" className="w-[22rem]" />
+        <TabsContent value="zeekr2" className="pt-10 md:pt-0">
+          <img src={zeekr2} alt="" className="w-full sm:w-[30rem]" />
           <div className="flex flex-col gap-5 mt-8">
             <RepairInfo text="Горит ошибка по пневмоподвеске" price={100} />
             <RepairInfo text="Проблема с мультимедиа" price={100} />
@@ -65,8 +65,8 @@ const Repair = () => {
             <RepairInfo text="Ошибки на приборной панели" price={100} />
           </div>
         </TabsContent>
-        <TabsContent value="zeekr3">
-          <img src={zeekr3} alt="" className="w-[22rem]" />
+        <TabsContent value="zeekr3" className="pt-10 md:pt-0">
+          <img src={zeekr3} alt="" className="w-full sm:w-[30rem]" />
           <div className="flex flex-col gap-5 mt-8">
             <RepairInfo text="Горит ошибка по пневмоподвеске" price={100} />
             <RepairInfo text="Проблема с мультимедиа" price={100} />
@@ -84,8 +84,8 @@ const Repair = () => {
             <RepairInfo text="Ошибки на приборной панели" price={100} />
           </div>
         </TabsContent>
-        <TabsContent value="zeekr4">
-          <img src={zeekr4} alt="" className="w-[22rem]" />
+        <TabsContent value="zeekr4" className="pt-10 md:pt-0">
+          <img src={zeekr4} alt="" className="w-full sm:w-[30rem]" />
           <div className="flex flex-col gap-5 mt-8">
             <RepairInfo text="Горит ошибка по пневмоподвеске" price={100} />
             <RepairInfo text="Проблема с мультимедиа" price={100} />
