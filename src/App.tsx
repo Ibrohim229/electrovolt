@@ -1,3 +1,4 @@
+import About from "./components/About";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Repair from "./components/Repair";
@@ -12,6 +13,7 @@ const App = () => {
       <Stats />
       <Repair />
       <Services />
+      <About />
     </main>
   );
 };
