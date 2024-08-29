@@ -66,6 +66,10 @@ const Services = () => {
             <ServicesInfo text="Установка русского языка" price={100} />
           </div>
         </div>
+
+        <h1 className="text-2xl font-semibold">
+          И это далеко не все, чем мы можем помочь вашему автомобилю!
+        </h1>
       </div>
     </section>
   );
