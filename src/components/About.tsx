@@ -3,7 +3,7 @@ import { aboutInfo } from "../../index";
 
 const About = () => {
   return (
-    <section className="px-8 pt-24 pb-20 flex flex-col gap-10 medium-gray-bg">
+    <section className="px-8 pt-24 pb-20 flex flex-col gap-10 lg:gap-16 medium-gray-bg">
       <div className="flex flex-col lg:flex-row gap-8 md:gap-14">
         <div className="flex flex-col gap-10 lg:gap-14">
           <h1 className="text-4xl font-semibold">Автосервис ZEEKRMINSK</h1>
@@ -25,7 +25,7 @@ const About = () => {
           <div className="flex flex-col gap-3" key={item.id}>
             <img src={item.icon} alt="" width={50} />
             <h1 className="text-lg md:text-xl font-semibold">{item.title}</h1>
-            <p className="text-base md:text-lg text-gray-600">
+            <p className="text-base md:text-lg text-[#707171]">
               {item.description}
             </p>
           </div>

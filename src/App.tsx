@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Repair from "./components/Repair";
 import Services from "./components/Services";
 import Stats from "./components/Stats";
+import Tools from "./components/Tools";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <Repair />
       <Services />
       <About />
+      <Tools />
     </main>
   );
 };
