@@ -19,7 +19,7 @@ const Tools = () => {
             <div className="flex flex-col gap-4" key={item.id}>
               <img
                 src={item.img}
-                alt=""
+                alt="tool"
                 className="w-full h-full md:w-[500px]"
               />
               <div className="flex flex-col gap-2">

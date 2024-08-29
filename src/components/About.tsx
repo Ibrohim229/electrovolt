@@ -23,7 +23,7 @@ const About = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         {aboutInfo.map((item) => (
           <div className="flex flex-col gap-3" key={item.id}>
-            <img src={item.icon} alt="" width={50} />
+            <img src={item.icon} alt="icon" width={50} />
             <h1 className="text-lg md:text-xl font-semibold">{item.title}</h1>
             <p className="text-base md:text-lg text-[#707171]">
               {item.description}
