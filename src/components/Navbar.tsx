@@ -40,7 +40,9 @@ const Navbar = () => {
         </div>
 
         <div className="md:hidden">
-          <FaPhoneAlt size={30} />
+          <a href="tel:+998999999999">
+            <FaPhoneAlt size={30} />
+          </a>
         </div>
 
         <ul className="md:hidden xl:flex  gap-8 hidden justify-between items-center text-lg">

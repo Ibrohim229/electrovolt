@@ -1,5 +1,6 @@
 import About from "./components/About";
 import Contacts from "./components/Contacts";
+import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Questions from "./components/Questions";
@@ -22,6 +23,7 @@ const App = () => {
       <Team />
       <Questions />
       <Contacts />
+      <Footer />
     </main>
   );
 };
