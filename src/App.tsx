@@ -1,4 +1,5 @@
 import About from "./components/About";
+import Contacts from "./components/Contacts";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Questions from "./components/Questions";
@@ -20,6 +21,7 @@ const App = () => {
       <Tools />
       <Team />
       <Questions />
+      <Contacts />
     </main>
   );
 };
