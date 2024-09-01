@@ -32,7 +32,7 @@ const Footer = () => {
         <ul className="list-none flex flex-col gap-3">
           <li>г. Минск, ул. Могилевская 5, к.1</li>
           <li>
-            <a href="tel:+998999999999">+998 99 999 99 99</a>
+            <a href="tel:998999999999">+998 99 999 99 99</a>
           </li>
           <li>
             <a href="mailto:something@gmail.com">something@gmail.com</a>

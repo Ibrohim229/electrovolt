@@ -18,7 +18,7 @@ const Contacts = () => {
             <h1 className="text-lg ">Номер телефона:</h1>
             <a
               className="text-xl font-semibold cursor-pointer hover:opacity-50 transition-all"
-              href="tel:+998999999999"
+              href="tel:998999999999"
             >
               +998 99 999 99 99
             </a>

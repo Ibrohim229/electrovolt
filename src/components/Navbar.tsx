@@ -40,7 +40,7 @@ const Navbar = () => {
         </div>
 
         <div className="md:hidden">
-          <a href="tel:+998999999999">
+          <a href="tel:998999999999">
             <FaPhoneAlt size={30} />
           </a>
         </div>
@@ -55,7 +55,7 @@ const Navbar = () => {
         </ul>
 
         <div className="md:flex hidden gap-8 items-center">
-          <a href="tel:+998999999999" className="text-lg font-semibold">
+          <a href="tel:998999999999" className="text-lg font-semibold">
             +998 99 999 99 99
           </a>
           <ul className="flex gap-3 list-none items-center">
