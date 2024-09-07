@@ -20,7 +20,7 @@ const Contacts = () => {
               className="text-xl font-semibold cursor-pointer hover:opacity-50 transition-all"
               href="tel:998999999999"
             >
-              +998 99 999 99 99
+              +998 99 999 99 98
             </a>
           </div>
 
