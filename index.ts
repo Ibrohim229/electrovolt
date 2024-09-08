@@ -25,7 +25,7 @@ export const teamInfo = [
   {
     id: 2,
     img: team2,
-    name: "Иванов Дмитрий",
+    name: "Charles Xavier",
     job: "Мастер по ремонту",
   },
 
