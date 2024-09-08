@@ -18,7 +18,7 @@ export const teamInfo = [
   {
     id: 1,
     img: team1,
-    name: "Кацуба Олег",
+    name: "John Summers",
     job: "Руководитель сервиса",
   },
 
