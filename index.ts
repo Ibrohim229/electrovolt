@@ -32,7 +32,7 @@ export const teamInfo = [
   {
     id: 3,
     img: team3,
-    name: "Сергеев Михаил",
+    name: "Kyle Walker",
     job: "Специалист по клиентам",
   },
 
