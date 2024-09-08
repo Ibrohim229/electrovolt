@@ -39,7 +39,7 @@ export const teamInfo = [
   {
     id: 4,
     img: team4,
-    name: "Смирнов Алексей",
+    name: "Peter Evans",
     job: "Техник-электрик",
   },
 ];
